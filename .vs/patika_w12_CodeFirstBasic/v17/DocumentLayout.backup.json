@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week12\\patika_w12_CodeFirstBasic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{280A3B8F-A762-49E3-A4D3-1A229172BC2E}|patika_w12_CodeFirstBasic\\patika_w12_CodeFirstBasic.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week12\\patika_w12_codefirstbasic\\patika_w12_codefirstbasic\\data\\patikafirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280A3B8F-A762-49E3-A4D3-1A229172BC2E}|patika_w12_CodeFirstBasic\\patika_w12_CodeFirstBasic.csproj|solutionrelative:patika_w12_codefirstbasic\\data\\patikafirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatikaFirstDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week12\\patika_w12_CodeFirstBasic\\patika_w12_CodeFirstBasic\\Data\\PatikaFirstDbContext.cs",
+              "RelativeDocumentMoniker": "patika_w12_CodeFirstBasic\\Data\\PatikaFirstDbContext.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week12\\patika_w12_CodeFirstBasic\\patika_w12_CodeFirstBasic\\Data\\PatikaFirstDbContext.cs",
+              "RelativeToolTip": "patika_w12_CodeFirstBasic\\Data\\PatikaFirstDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:31:57.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
